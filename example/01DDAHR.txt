@@ -1,0 +1,27 @@
+01DDAHR
+xm16 xm17
+xm16 xm0
+xm16 xm4
+xm17 xm0
+xm17 xm4
+xm0 xm4
+xm18 xm19
+xm18 xm1
+xm18 xm5
+xm19 xm1
+xm19 xm5
+xm1 xm5
+xm8 xm9
+xm10 xm11
+xm2 xm3
+xm6 xm7
+xm24 xm20
+xm25 xm22
+xm25 xm15
+xm25 xm14
+xm22 xm15
+xm22 xm14
+xm15 xm14
+xm21 xm13
+xm21 xm12
+xm13 xm12

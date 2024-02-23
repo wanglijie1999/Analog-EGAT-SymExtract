@@ -416,7 +416,7 @@ def parse_all(filedir, save_dir):
 
 
 if __name__ == '__main__':
-    path_read_SPICE = " "
-    path_save_netlist = " "
+    path_read_SPICE = " ../example"
+    path_save_netlist = " ../my_readgraph"
     parse_all(path_read_SPICE,
               path_save_netlist)

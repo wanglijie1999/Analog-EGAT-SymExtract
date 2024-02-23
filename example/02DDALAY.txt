@@ -1,0 +1,23 @@
+02DDALAY
+xm6 xm8
+xm6 xm10
+xm6 xm17
+xm8 xm10
+xm8 xm17
+xm10 xm17
+xm7 xm9
+xm7 xm11
+xm7 xm16
+xm9 xm11
+xm9 xm16
+xm11 xm16
+xm18 xm19
+xm21 xm20
+xm12 xm13
+xm14 xm15
+xm27 xm1
+xm27 xm0
+xm1 xm0
+xm4 xm2
+xm4 xm3
+xm2 xm3

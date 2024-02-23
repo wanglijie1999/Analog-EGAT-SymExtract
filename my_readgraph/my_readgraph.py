@@ -303,7 +303,7 @@ def read_graph(file_name, save_dir):
     node_size_feats_w = []
     node_size_feats_l = []
     edge_dic = {}  # this dictionary is to store mutil_edge information
-    trainset = []  # train
+    trainset = [0,1]  # train
     my_test_name = {}
     valid_pair_num = 0
     neg_pair_num = 0
@@ -565,7 +565,7 @@ def read_graph(file_name, save_dir):
 
 
 if __name__ == '__main__':
-    read_file = " "
-    save_file = " "
+    read_file = " ../my_readgraph/dataXY_file.txt"
+    save_file = " ../my_readgraph"
     read_graph(read_file,
                save_file)
