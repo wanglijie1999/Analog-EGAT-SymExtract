@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@6943268f-5ee3-452e-ad04-c3d5b399d79f" />
+        <remote-mappings server-id="python@sftp://wanglijie@202.38.73.239:22/home/wanglijie/anaconda3/envs/pytorch/bin/python" />
+        <remote-mappings server-id="python@sftp://wanglijie@202.38.73.239:22/home/wanglijie/anaconda3/envs/pytorch/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/wanglijie/Analog_file/sym_EGAT" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
