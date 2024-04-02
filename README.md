@@ -1,4 +1,4 @@
-# EGAT_sym #
+# Analog-EGAT-SymExtract #
 The corresponding code for the article "Graph Attention-Based Symmetry Constraint Extraction for Analog Circuits"
 # how to use #
 - run my_parser first
